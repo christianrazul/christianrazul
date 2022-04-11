@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rudolph Christian Razul
-- 👀 I’m interested in Web Development and Software Engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Web development projects and the like
+- 👋 Hi, I’m Rudolph Christian Razul from Davao City.
+- 👀 I’m interested in Web Development and Software Engineering.
+- 🌱 I’m currently learning Python, JavaScript, and ReactJS.
+- 💞️ I’m looking to collaborate on Web development projects and the like.
 - 📫 You can reach me through my email: rcrrazul@addu.edu.ph or Twitter: @christianrazul
 
 <!---
