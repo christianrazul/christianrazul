@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rudolph Christian! You can call me Chan!</h1>
+<h1 align="center">Hi 👋, I'm Chan!</h1>
 <h3 align="center">A highly passionate Software Engineer from the Philippines.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christianrazul" alt="christianrazul" /></a> </p>
