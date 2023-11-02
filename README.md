@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christianrazul" alt="christianrazul" /></a> </p>
 
-- 🔭 I’m currently working on **the CRB OT Clinic Website (available soon!)**
+- 🔭 I’m currently working on **the CRB OT Clinic Website**
 
 - 🌱 I’m currently learning **ReactJS, MaterialUI!**
-
-- 👯 I’m looking to collaborate on **ReactJS Projects.**
 
 - 📫 How to reach me **razulchristian@gmail.com**
 
