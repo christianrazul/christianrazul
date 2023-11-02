@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, MaterialUI!**
 
-- 📫 How to reach me **razulchristian@gmail.com**
+- 📫 You may reach me through: **razulchristian@gmail.com**
 
 - ⚡ Fun fact **I love dogs and videogames, I wanna make a video game about dogs someday!**
 
