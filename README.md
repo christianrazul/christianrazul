@@ -3,10 +3,9 @@
 
   <div align="justify">
     <strong>
-      My name is Christian and I'm a Web Developer from the Philippines.
-      I am eager to learn new things, and experience different kinds of technologies in the Web Development world.
-      Right now, I'm learning Javascript Front-End & Back-End in order to become a Full-Stack developer (MERN stack).
-      Happy coding! 👨‍💻
+    Greetings! My name is Christian and I'm a highly motivated Software Developer hailing from the Philippines. Deeply passionate about the world of software development. 
+    With a keen eye for innovation and a drive for excellence, I thrive on creating solutions that make a positive impact. 
+    Let's code the future together! 👨‍💻
     </strong>
   </div>
 
