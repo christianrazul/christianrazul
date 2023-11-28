@@ -2,11 +2,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
   <div align="justify">
-    <strong>
-    My name is Christian and I'm a highly motivated Software Developer hailing from the Philippines. Deeply passionate about the world of software development. 
-    With a keen eye for innovation and a drive for excellence, I thrive on creating solutions that make a positive impact. 
-    Let's code the future together! 👨‍💻
-    </strong>
+    My name is <strong>Christian</strong>, and I'm a highly motivated Software Developer hailing from the Philippines. <em>Deeply passionate</em> about the world of software development. 
+    With a <em>keen eye for innovation and a drive for excellence</em>, I thrive on creating solutions that make a positive impact. 
+    <strong>Let's code the future together!</strong> 👨‍💻
   </div>
   <br>
   <div>
