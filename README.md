@@ -3,7 +3,7 @@
 
   <div align="justify">
     <strong>
-    Greetings! My name is Christian and I'm a highly motivated Software Developer hailing from the Philippines. Deeply passionate about the world of software development. 
+    My name is Christian and I'm a highly motivated Software Developer hailing from the Philippines. Deeply passionate about the world of software development. 
     With a keen eye for innovation and a drive for excellence, I thrive on creating solutions that make a positive impact. 
     Let's code the future together! 👨‍💻
     </strong>
