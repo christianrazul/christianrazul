@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-        <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
@@ -31,23 +31,15 @@
       />
       <br /><strong>Python</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
         width="48"
         height="48"
-        alt="JavaScript"
+        alt="Material UI"
       />
-      <br /><strong>JavaScript</strong>
+      <br /><strong>Material UI</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -58,7 +50,15 @@
       />
       <br /><strong>TypeScript</strong>
     </td>
-
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        width="48"
+        height="48"
+        alt="Tailwind"
+      />
+      <br /><strong>Tailwind</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -81,12 +81,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
         height="48"
-        alt="Tailwind"
+        alt="JavaScript"
       />
-      <br /><strong>Tailwind</strong>
+      <br /><strong>JavaScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -99,13 +99,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
         width="48"
         height="48"
-        alt="Material UI"
+        alt="CSS3"
       />
-      <br /><strong>Material UI</strong>
-    </td>
+      <br /><strong>CSS3</strong>
   </tr>
 </table>
   
