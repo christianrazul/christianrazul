@@ -13,14 +13,23 @@
 
 <table>
   <tr>
-    <td align="center" height="108" width="108">
+        <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
-        alt="HTML"
+        alt="React"
       />
-      <br /><strong>HTML5</strong>
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -49,15 +58,7 @@
       />
       <br /><strong>TypeScript</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
-    </td>
+
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -80,12 +81,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
         width="48"
         height="48"
-        alt="Jest"
+        alt="Tailwind"
       />
-      <br /><strong>Jest</strong>
+      <br /><strong>Tailwind</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -98,12 +99,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://testing-library.com/img/logo-large.png"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
         width="48"
         height="48"
-        alt="React Testing Library"
+        alt="Material UI"
       />
-      <br /><strong>React Testing Library</strong>
+      <br /><strong>Material UI</strong>
     </td>
   </tr>
 </table>
