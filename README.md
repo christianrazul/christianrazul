@@ -11,6 +11,14 @@
     <a href="https://www.linkedin.com/in/rcrrazul"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
     <a href="mailto:razulchristian@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
   </div>
+  <br>
+  <div>
+    <em>Want to learn more about me?</em> <strong>Check out my portfolio! 💻</strong>
+  </div>
+  <br>
+  <div>
+    <a href="https://www.christianrazul.xyz"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" height=25></a>
+  </div>
 
 # 🔧 Technologies & Tools
 
