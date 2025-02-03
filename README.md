@@ -17,7 +17,7 @@
   </div>
   <br>
   <div>
-    <a href="https://www.christianrazul.xyz"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" height=25></a>
+    <a href="https://christianrazul.xyz"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" height=25></a>
   </div>
 
 # 🔧 Technologies & Tools
