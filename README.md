@@ -27,13 +27,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
         width="48"
         height="48"
-        alt="Python"
+        alt="TypeScript"
       />
-      <br /><strong>Python</strong>
-    </td>
+      <br /><strong>TypeScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -46,22 +45,23 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="48"
         height="48"
-        alt="TypeScript"
+        alt="Python"
       />
-      <br /><strong>TypeScript</strong>
+      <br /><strong>Python</strong>
     </td>
-    <td align="center" height="108" width="108">
+    </td>   
+  <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postresql-original.svg"
         width="48"
         height="48"
-        alt="Tailwind"
+        alt="PostgreSQL"
       />
-      <br /><strong>Tailwind</strong>
-    </td>
+      <br /><strong>PostgreSQL</strong>
+  </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
